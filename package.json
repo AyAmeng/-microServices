@@ -1,0 +1,12 @@
+{
+  "name": "Documents",
+  "version": "v0.0.1",
+  "description": "microServices",
+  "main": "yes",
+  "author": "Wave <372969383@qq.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AyAmeng/microServices.git"
+  }
+}
